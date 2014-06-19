@@ -1,0 +1,9 @@
+Building UniverseCoin
+
+See doc/readme-qt.rst for instructions on building UniverseCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of UniverseCoin.
+
+See doc/build-*.txt for instructions on building UniverseCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of UniverseCoin.
